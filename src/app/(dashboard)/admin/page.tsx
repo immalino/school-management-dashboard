@@ -1,4 +1,4 @@
-import Announcements from "@/components/Announcement";
+import Announcements from "@/components/Announcements";
 import AttendaceChart from "@/components/AttendaceChart";
 import CountChart from "@/components/CountChart";
 import EventCalendar from "@/components/EventCalendar";
